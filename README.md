@@ -250,24 +250,37 @@ git push origin my-feature
 ```
 
 ---
-
-## 📜 License
-
-MIT — use it, fork it, ship it. Attribution appreciated but not required.
+## 📬 Contact
 
 <div align="center">
 
-<br />
+[![Email](https://img.shields.io/badge/📧_Email-90dthakur@gmail.com-EA4335?style=for-the-badge)](mailto:90dthakur@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-dev--thakur90-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/dev-thakur90)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-DEVTHAKUR--90-181717?style=for-the-badge)](https://github.com/DEVTHAKUR-90)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-devthakur.vercel.app-7C3AED?style=for-the-badge)](https://devthakur.vercel.app)
 
-```
-                    ┌──────────────────────────────────────┐
-                    │   crafted with care, caffeine, and   │
-                    │       a lot of hard-refreshing       │
-                    └──────────────────────────────────────┘
-```
+</div>
 
-<br />
+---
 
-**If this tool saved you time, a ⭐ on the repo means the world.**
+## 📄 License
+
+Open source under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+<br>
+
+⭐ **Star this repo if you found it useful** ⭐
+
+<br>
+
+<img src="https://img.shields.io/badge/Built_with-❤️_by_Dev_Thakur-7C3AED?style=for-the-badge" />
+
+<br><br>
+
+<sub>© 2026 Dev Thakur. All rights reserved.</sub>
 
 </div>
